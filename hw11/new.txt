@@ -1,0 +1,6 @@
+abcdefg
+    PID TTY          TIME CMD
+ 996415 pts/0    00:00:00 sudo
+ 996416 pts/0    00:00:00 bash
+1002987 pts/0    00:00:00 cat
+1003730 pts/0    00:00:00 ps
